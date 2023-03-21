@@ -1,8 +1,12 @@
 html, body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   background:  #2f1764;
-  cursor: url(https://s.pngkit.com/png/small/67-675133_hand-finger-pointing-down-clip-art-pointed-hand.png),auto;
+  
 }
+body {
+  cursor: url(https://png.pngtree.com/element_our/20190529/ourmid/pngtree-arrow-mouse-image_1196310.jpg),auto;
+}
+
 .card {
   margin-bottom: 3rem;
 }
