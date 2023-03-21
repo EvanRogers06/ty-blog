@@ -11,7 +11,7 @@ html,body {
   font-weight: bold;
 }
 .hero-body
-{background-image: url(https://media.gq.com/photos/57672ef65db2e8cb18c9e9a8/64:25/w_2943,h_1149,c_limit/homer-simpson-driving.jpg);
+{background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210623/pngtree-red-yellow-background-images-stock-photos-vectors-image_732693.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -69,4 +69,7 @@ div.column.is-8:first-child {
 }
 .promo-block .container {
   margin: 1rem 5rem;
+}
+body {
+  cursor: url(https://s.pngkit.com/png/small/67-675133_hand-finger-pointing-down-clip-art-pointed-hand.png),auto;
 }
