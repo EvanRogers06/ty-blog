@@ -1,11 +1,16 @@
 html,body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 14px;
-  background: #ffffff;
+  background: #e5ff00;
 }
 .navbar.is-white {
-  background: #c0d4e0;
+  background: #dab30a;
 }
+body {
+  height: 100%;
+  background: linear-gradient(90deg, #f3a513 50%, #fffb00 50%);
+}
+
 .navbar-brand .brand-text {
   font-size: 1.11rem;
   font-weight: bold;
@@ -69,7 +74,4 @@ div.column.is-8:first-child {
 }
 .promo-block .container {
   margin: 1rem 5rem;
-}
-body {
-  cursor: url(https://s.pngkit.com/png/small/67-675133_hand-finger-pointing-down-clip-art-pointed-hand.png),auto;
 }
