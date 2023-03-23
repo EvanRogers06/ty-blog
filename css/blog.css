@@ -3,7 +3,7 @@ html,body {
   font-size: 14px;
   background: #e5ff00;
 }
-.navbar.is-white {
+.navbar.is-black {
   background: #dab30a;
 }
 body {
@@ -75,6 +75,7 @@ div.column.is-8:first-child {
 .promo-block .container {
   margin: 1rem 5rem;
 }
-body {
-  cursor: url(https://png.pngtree.com/element_our/20190529/ourmid/pngtree-arrow-mouse-image_1196310.jpg),auto;
+.cell            { cursor: cell; }
+.navbar-custom {
+  height: 300px;
 }

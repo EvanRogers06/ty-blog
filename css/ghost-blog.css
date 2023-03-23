@@ -45,6 +45,9 @@ hr {
   background: transparent;
   color: white;
 }
+.navbar-custom {
+  height: 100px;
+}
 
 .navbar .navbar-item a {
   margin-left: 1rem;
