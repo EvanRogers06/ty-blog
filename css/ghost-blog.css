@@ -29,7 +29,7 @@ hr {
 
 .title,
 .subtitle {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .navbar .navbar-item {
